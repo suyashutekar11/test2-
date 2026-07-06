@@ -1,4 +1,4 @@
-number=int(input("Enter a number: "))
+number=int(input("Enter a value: "))
 operator=input("Enter an operator (+, -, *, /, %): ")
 if operator=="+":
     result=number+number
